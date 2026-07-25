@@ -5956,6 +5956,16 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 92.71) (xy 257.81 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81591d2f-3cbf-413e-a32a-209eae9fc8d5")
+	)
+	(wire
+		(pts
 			(xy 224.79 100.33) (xy 231.14 100.33)
 		)
 		(stroke
@@ -6173,6 +6183,16 @@
 			(type default)
 		)
 		(uuid "b4ac4fbb-fa21-424f-8a7a-9fb3c9b0f1bc")
+	)
+	(wire
+		(pts
+			(xy 266.7 92.71) (xy 265.43 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5120450-b341-4b1f-b407-88734ab8f571")
 	)
 	(wire
 		(pts
@@ -11083,7 +11103,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 261.62 92.71 90)
+		(at 262.89 92.71 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11091,7 +11111,7 @@
 		(dnp no)
 		(uuid "928ac378-aecb-4ad8-93f5-010c67b82376")
 		(property "Reference" "R9"
-			(at 261.62 86.36 90)
+			(at 262.89 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11099,7 +11119,7 @@
 			)
 		)
 		(property "Value" "33k2"
-			(at 261.62 88.9 90)
+			(at 262.89 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11107,7 +11127,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 261.62 94.488 90)
+			(at 262.89 94.488 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11116,7 +11136,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 261.62 92.71 0)
+			(at 262.89 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11125,7 +11145,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 261.62 92.71 0)
+			(at 262.89 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
